@@ -2,8 +2,8 @@
 
 - 📊 **Analista de Dados em formação**, com foco futuro em **DevOps**
 - 🔄 **Transição de carreira:** Conectando anos de experiência operacional no varejo à inteligência de dados e infraestrutura
-- 💻 **Estudando e praticando:** Python, SQL (MySQL), Consumo de APIs, Git, Linux, JS, HTML e CSS
-- 😄 **Pronouns:** ele/dele
+- 💻 **Estudando e praticando:** Python, SQL (MySQL), Consumo de APIs, Git, JS, HTML e CSS
+
 
 <br>
 
@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
